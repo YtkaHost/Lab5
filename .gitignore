@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build files
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Temporary files
+*.tmp
+*.log
+
+# Node.js (если используется)
+node_modules/
+
+# Other
+.DS_Store
+Thumbs.db
