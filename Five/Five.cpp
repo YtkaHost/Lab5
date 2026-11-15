@@ -2,6 +2,8 @@
 
 using namespace System;
 
+//Test
+
 int main(array<System::String^>^ args)
 {
     Console::OutputEncoding = Text::Encoding::Unicode;
